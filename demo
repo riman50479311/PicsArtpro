@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "Picsart",
+    "packageName": "com.picsart.studio",
+    "versionCode": 993829805,
+    "updateUrl": "Your channel link ",
+    "title": "App Has Expired",
+    "description": "Your app version is too old and no longer supported. Please update to the latest version.",
+    "isForce": true,
+    "isExpired": true,
+    "expiryDate": "2020-09-01",
+    "closeButtonText": "Cancel",
+    "updateButtonText": "Get Update"
+  }
+]

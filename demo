@@ -2,13 +2,13 @@
   {
     "appName": "PicsArt",
     "packageName": "com.picsart.studio",
-    "versionCode": 993829805,
+    "versionCode": 993829805, 
     "updateUrl": "https://t.me/romanticboymizan1",
-    "title": "App Updated",
-    "description": "Enjoy the latest version of the app.",
-    "isForce": false,
-    "isExpired": false,
-    "expiryDate": "2030-01-01",
+    "title": "নতুন আপডেট এসেছে!",
+    "description": "অনুগ্রহ করে অ্যাপটির সর্বশেষ ভার্সন ডাউনলোড করে নিন।",
+    "isForce": true,
+    "isExpired": true,
+    "expiryDate": "2020-03-28",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update"
   }
